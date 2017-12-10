@@ -1,7 +1,8 @@
-package mx.com.codewithus.codewithusapp
+package mx.com.codewithus.codewithusapp.View.Activity
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import mx.com.codewithus.codewithusapp.R
 
 class SplashScreenActivity : AppCompatActivity() {
 
